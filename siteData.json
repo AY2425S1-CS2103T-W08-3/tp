@@ -38,9 +38,9 @@
     },
     {
       "src": "DeveloperGuide.md",
-      "title": "Developer Guide",
+      "title": "EduManage",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
+        "edumanage-developer-guide": "EduManage Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -131,7 +131,7 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "edumanage": "EduManage"
       },
       "headingKeywords": {}
     },
