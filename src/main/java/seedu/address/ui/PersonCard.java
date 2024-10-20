@@ -2,12 +2,14 @@ package seedu.address.ui;
 
 import java.util.Comparator;
 
+import javafx.collections.ListChangeListener;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 import javafx.scene.layout.FlowPane;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.Region;
 import seedu.address.model.person.Person;
+import seedu.address.model.person.task.Task;
 
 /**
  * A UI component that displays information of a {@code Person}.
@@ -64,5 +66,14 @@ public class PersonCard extends UiPart<Region> {
                 .forEach(subject -> subjects.getChildren()
                         .add(new Label(person.getLevel().levelName + " " + subject.subjectName)));
         tasks.setText("Tasks: " + person.getTaskList().size());
+
+        // Listener to update the task count whenever the task list changes
+        person.getTaskList()
+                .asUnmodifiableObservableList()
+                .addListener((ListChangeListener<? super Task>) change -> {
+                    while (change.next()) {
+                        tasks.setText("Tasks: " + person.getTaskList().size());
+                    }
+                });
     }
 }
