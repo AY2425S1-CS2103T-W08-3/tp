@@ -51,6 +51,7 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
+        "lesson-time-parameter": "Lesson Time Parameter",
         "tag-feature-level-and-subject-tagging": "Tag Feature - Level and Subject Tagging",
         "proposed-undo-redo-feature": "[Proposed] Undo/Redo Feature",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
@@ -62,8 +63,10 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
+        "adding-a-student": "Adding a student",
         "deleting-a-student": "Deleting a student",
-        "finding-specific-students": "Finding specific students"
+        "finding-specific-students": "Finding specific students",
+        "adding-a-task-for-a-student": "Adding a task for a student"
       },
       "headingKeywords": {}
     },
