@@ -44,7 +44,7 @@ with(this){return _c('ul',[_c('li',[_c('a',{attrs:{"href":"#6-1-launch-and-shutd
 with(this){return _c('p',[_c('a',{attrs:{"href":"#7-appendix-planned-enhancements"}},[_v("7. Appendix: Planned Enhancements")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('a',{attrs:{"href":"#7-1-update-subject-and-lesson-time-cumulatively"}},[_v("7.1 Update subject and lesson time cumulatively")])]),_v(" "),_c('li',[_c('a',{attrs:{"href":"#7-2-names-with-special-characters"}},[_v("7.2 Names with special characters")])]),_v(" "),_c('li',[_c('a',{attrs:{"href":"#7-3-multiple-students-with-the-same-name"}},[_v("7.3 Multiple students with the same name")])]),_v(" "),_c('li',[_c('a',{attrs:{"href":"#7-4-usgae-of-reserved-prefixes-in-parameters"}},[_v("7.4 Usage of reserved prefixes in parameters")])])])}
+with(this){return _c('ul',[_c('li',[_c('a',{attrs:{"href":"#7-1-update-subject-and-lesson-time-cumulatively"}},[_v("7.1 Update subject and lesson time cumulatively")])]),_v(" "),_c('li',[_c('a',{attrs:{"href":"#7-2-names-with-special-characters"}},[_v("7.2 Names with special characters")])]),_v(" "),_c('li',[_c('a',{attrs:{"href":"#7-3-multiple-students-with-the-same-name"}},[_v("7.3 Multiple students with the same name")])]),_v(" "),_c('li',[_c('a',{attrs:{"href":"#7-4-usage-of-reserved-prefixes-in-parameters"}},[_v("7.4 Usage of reserved prefixes in parameters")])])])}
 },function anonymous(
 ) {
 with(this){return _c('h2',{attrs:{"id":"1-setting-up-getting-started"}},[_v("1. Setting Up, Getting Started"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#1-setting-up-getting-started","onclick":"event.stopPropagation()"}})])}
@@ -605,6 +605,6 @@ with(this){return _c('p',[_v("The reserved prefixes are: "),_c('code',{pre:true,
 with(this){return _c('p',[_c('a',{attrs:{"href":"#edumanage-developer-guide"}},[_v("(Back to Top)")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 2:08:42 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 9:44:22 GMT+8]")])])])}
 }];
   
